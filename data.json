@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "title": "보송보송 타월",
+    "price": 7900,
+    "type": "living"
+  },
+  { "id": 2, "title": "선데이백", "price": 169000, "type": "living" },
+  { "id": 3, "title": "냐미냐미 식기", "price": 49900, "type": "living" },
+  { "id": 4, "title": "쿨썸 서핑매트", "price": 39900, "type": "living" },
+  { "id": 5, "title": "꿀잠 해먹방석", "price": 82000, "type": "living" },
+  {
+    "id": 6,
+    "title": "논슬립 안심 배변매트",
+    "price": 27900,
+    "type": "living"
+  },
+  { "id": 7, "title": "토이트릿 미니", "price": 12000, "type": "snack" },
+  { "id": 8, "title": "치어 영양제", "price": 5900, "type": "nutrient" },
+  { "id": 9, "title": "덴탈 치카츄", "price": 12000, "type": "snack" },
+  {
+    "id": 10,
+    "title": "디어니스트키친 칠면조&오리",
+    "price": 6000,
+    "type": "food"
+  },
+  {
+    "id": 11,
+    "title": "벅스펫 벅스독 오리지널",
+    "price": 29500,
+    "type": "food"
+  },
+  {
+    "id": 12,
+    "title": "달링키친 50영양큐브 말고기",
+    "price": 15000,
+    "type": "food"
+  },
+  {
+    "id": 13,
+    "title": "라포그 인섹트 관절 1.2kg",
+    "price": 25000,
+    "type": "food"
+  },
+  {
+    "id": 14,
+    "title": "닥터맘마 오메가3 30ml",
+    "price": 13000,
+    "type": "nutrient"
+  },
+  {
+    "id": 15,
+    "title": "강아지 심장 영양제 60g",
+    "price": 35000,
+    "type": "nutrient"
+  },
+  {
+    "id": 16,
+    "title": "바이오펫츠 본허그 30g",
+    "price": 27500,
+    "type": "nutrient"
+  },
+  { "id": 17, "title": "주베베 비건쿠키 10종", "price": 2500, "type": "snack" }
+]
