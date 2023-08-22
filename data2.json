@@ -1,0 +1,10 @@
+[
+  { "id": 4, "title": "쿨썸 서핑매트", "price": 39900, "type": "living" },
+  { "id": 5, "title": "꿀잠 해먹방석", "price": 82000, "type": "living" },
+  {
+    "id": 6,
+    "title": "논슬립 안심 배변매트",
+    "price": 27900,
+    "type": "living"
+  }
+]
