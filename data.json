@@ -4,136 +4,136 @@
     "title": "보송보송 타월",
     "price": 7900,
     "type": "clean",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 2,
     "title": "선데이백",
     "price": 169000,
     "type": "walking",
-    "isNew": "true",
-    "isBest": "false"
+    "isNew": true,
+    "isBest": false
   },
   {
     "id": 3,
     "title": "냐미냐미 식기",
     "price": 49900,
     "type": "living",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 4,
     "title": "쿨썸 서핑매트",
     "price": 39900,
     "type": "living",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 5,
     "title": "꿀잠 해먹방석",
     "price": 82000,
     "type": "living",
-    "isNew": "true",
-    "isBest": "false"
+    "isNew": true,
+    "isBest": false
   },
   {
     "id": 6,
     "title": "논슬립 안심 배변매트",
     "price": 27900,
     "type": "clean",
-    "isNew": "false",
-    "isBest": "true"
+    "isNew": false,
+    "isBest": true
   },
   {
     "id": 7,
     "title": "토이트릿 미니",
     "price": 12000,
     "type": "food",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 8,
     "title": "치어 영양제",
     "price": 5900,
     "type": "food",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 9,
     "title": "덴탈 치카츄",
     "price": 12000,
     "type": "food",
-    "isNew": "false",
-    "isBest": "true"
+    "isNew": false,
+    "isBest": true
   },
   {
     "id": 10,
     "title": "디어니스트키친 칠면조&오리",
     "price": 6000,
     "type": "food",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 11,
     "title": "벅스펫 벅스독 오리지널",
     "price": 29500,
     "type": "food",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 12,
     "title": "달링키친 50영양큐브 말고기",
     "price": 15000,
     "type": "food",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 13,
     "title": "라포그 인섹트 관절 1.2kg",
     "price": 25000,
     "type": "food",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 14,
     "title": "닥터맘마 오메가3 30ml",
     "price": 13000,
     "type": "food",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 15,
     "title": "강아지 심장 영양제 60g",
     "price": 35000,
     "type": "food",
-    "isNew": "true",
-    "isBest": "false"
+    "isNew": true,
+    "isBest": false
   },
   {
     "id": 16,
     "title": "바이오펫츠 본허그 30g",
     "price": 27500,
     "type": "food",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 17,
     "title": "주베베 비건쿠키 10종",
     "price": 2500,
     "type": "food",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
 
   {
@@ -141,47 +141,47 @@
     "title": "논슬립 슬라이드 계단",
     "price": 49900,
     "type": "living",
-    "isNew": "false",
-    "isBest": "true"
+    "isNew": false,
+    "isBest": true
   },
   {
     "id": 19,
     "title": "포옹백",
     "price": 39900,
     "type": "walking",
-    "isNew": "true",
-    "isBest": "false"
+    "isNew": true,
+    "isBest": false
   },
   {
     "id": 20,
     "title": "윙윙프리 클립형",
     "price": 5900,
     "type": "walking",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 21,
     "title": "마이핏 하네스 & 리쉬 라이트",
     "price": 27900,
     "type": "walking",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   },
   {
     "id": 22,
     "title": "선데이 풉백 케이스",
     "price": 13400,
     "type": "walking",
-    "isNew": "false",
-    "isBest": "true"
+    "isNew": false,
+    "isBest": true
   },
   {
     "id": 23,
     "title": "POO-POO 배변패드",
     "price": 13400,
     "type": "clean",
-    "isNew": "false",
-    "isBest": "false"
+    "isNew": false,
+    "isBest": false
   }
 ]
