@@ -229,5 +229,65 @@
     "isBest": false,
     "quantity": 1,
     "selected": false
+  },
+  {
+    "id": 24,
+    "title": "킁킁 노즈워크 매트",
+    "price": 37900,
+    "type": "living",
+    "isNew": false,
+    "isBest": true,
+    "quantity": 1,
+    "selected": false
+  },
+  {
+    "id": 25,
+    "title": "꿀잠 이불",
+    "price": 31900,
+    "type": "living",
+    "isNew": false,
+    "isBest": true,
+    "quantity": 1,
+    "selected": false
+  },
+  {
+    "id": 26,
+    "title": "UFO 넥카라",
+    "price": 16900,
+    "type": "living",
+    "isNew": false,
+    "isBest": true,
+    "quantity": 1,
+    "selected": false
+  },
+  {
+    "id": 27,
+    "title": "액티브 웨더 코트",
+    "price": 55000,
+    "type": "walking",
+    "isNew": false,
+    "isBest": true,
+    "quantity": 1,
+    "selected": false
+  },
+  {
+    "id": 28,
+    "title": "부비부빗",
+    "price": "14900",
+    "type": "clean",
+    "isNew": false,
+    "isBest": true,
+    "quantity": 1,
+    "selected": false
+  },
+  {
+    "id": 29,
+    "title": "POO-POO 배변패드 프레시",
+    "price": "14900",
+    "type": "clean",
+    "isNew": false,
+    "isBest": false,
+    "quantity": 1,
+    "selected": false
   }
 ]
